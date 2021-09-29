@@ -1,0 +1,55 @@
+span{
+    color: black;
+    font-size: 16px;
+}
+h4,p{
+    color: #fff;
+}
+a{
+    font-size: 16px !important;
+}
+a:hover{
+    color: blue !important;
+    
+}
+#canvas {
+  margin: auto;
+  background-color: #ececec;
+  width: 100%;
+}
+.btn-disabled {
+  color: black !important;
+  font-size: 16px !important;
+}
+.filter-btn {
+  font-size: 16px !important;
+  padding: 0px 12px !important;
+}
+.bg-info,
+.btn-info {
+  background-color: #68c882 !important
+    ;
+  border-color: #68c882 !important;
+}
+
+.btn-secondary {
+  background-color: #68c882 !important;
+  border-color: #68c882 !important;
+}
+
+.btn-dark {
+  background-color: #68c882 !important;
+  border-color: #68c882 !important;
+}
+
+.btn-primary {
+  background-color: rgb(79, 170, 255);
+  border-color: rgb(79, 170, 255);
+}
+.btn-danger {
+  background-color: rgb(255, 79, 79);
+  border-color: red;
+}
+input {
+  background-color: red !important;
+}
